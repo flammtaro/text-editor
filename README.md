@@ -12,7 +12,7 @@ To install this project, you need to:
 -Open the integrated terminal
 -Run "npm install" to install all dependencies
 -Run "npm run start" to start the server and build the webpack data
--Visit the local address: localhost://3030 in your browser
+-Visit the local address: http://localhost:2525 in your browser
 
 ## Usage
 Visit the webpage: https://git.heroku.com/text-editor-flammtaro.git to use this app. 
