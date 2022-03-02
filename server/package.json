@@ -1,10 +1,10 @@
 {
-    "name": "contact",
+    "name": "text-editor",
     "version": "1.0.0",
     "description": "",
     "main": "server.js",
     "scripts": {
-        "server": "node server.js"
+        "server": "node server.js --ignore client"
     },
     "keywords": [],
     "author": "",
