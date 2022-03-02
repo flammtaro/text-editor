@@ -7,12 +7,12 @@
 
 ## Installation
 To install this project, you need to:
--Clone the code from the repo
--Open the code in Visual Studio Code
+- Clone the code from the repo
+- Open the code in Visual Studio Code
 -Open the integrated terminal
--Run "npm install" to install all dependencies
--Run "npm run start" to start the server and build the webpack data
--Visit the local address: http://localhost:2525 in your browser
+- Run "npm install" to install all dependencies
+- Run "npm run start" to start the server and build the webpack data
+- Visit the local address: http://localhost:2525 in your browser
 
 ## Usage
 Visit the webpage: https://git.heroku.com/text-editor-flammtaro.git to use this app. 
